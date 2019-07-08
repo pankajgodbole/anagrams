@@ -1,0 +1,15 @@
+lexican:
+  filename:  "lexican"
+#  filename:  "lexican-2"
+#  filename:  "lexican-3"
+  extension: "dat"
+  path:      "/home/p/Work/Projects/anagrams"
+  directory: "data"
+  
+anagrams:
+  filename:  "anagrams"
+#  filename:  "anagrams-2"
+#  filename:  "anagrams-3"
+  extension: "txt"
+  path:      "/home/p/Work/Projects/anagrams"
+  directory: "data"
