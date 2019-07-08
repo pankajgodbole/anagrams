@@ -1,9 +1,8 @@
 # anagrams
-### _Your Name <your.name@example.com>_
 
-This is a project to do ... something.
+Anagrams in Common Lisp.
 
 ## License
 
-Specify license here
+MIT Licence
 
